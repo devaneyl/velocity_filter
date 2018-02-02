@@ -24,5 +24,5 @@ When a "Note On" message is received, a new system velocity message is created  
 * Connect velocity filter to Volca FM
   * aconnect _velocityfilterdevicenumber_:0 _volcadevicenumber_:0
 
-
+## Author
 :copyright: 2017 Louis F. Devaney
