@@ -25,4 +25,4 @@ When a "Note On" message is received, a new system velocity message is created  
   * aconnect _velocityfilterdevicenumber_:0 _volcadevicenumber_:0
 
 ## Author
-:copyright: 2017 Louis F. Devaney
+:copyright: 2017 DSW
